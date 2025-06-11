@@ -1,0 +1,3 @@
+console.log("--- test.js loaded successfully ---"); // Add this line
+console.log("Aviraj");
+// ... any other JavaScript code you have ...

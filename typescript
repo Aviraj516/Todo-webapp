@@ -1,0 +1,69 @@
+Script started on Tue May 20 12:00:03 2025
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[Javirajmurkute@Mac fullstack python  % [K[?2004ha
+[Jaa                  aea                 alias               apropos             atq                 auval
+ab                  afclip              amt                 ar                  atrm                auvaltool
+ac                  afconvert           apachectl           arch                atsutil             avbanalyse
+accton              afhash              apfs_hfs_convert    arp                 audit               avbdeviced
+activate            afida               apfs_unlockfv       as                  auditd              avbdiagnose
+activate_this.py    afinfo              app-sso             asa                 auditreduce         avbutil
+activate.csh        afktool             appleh13camerad     aslmanager          authserver          avconvert
+activate.fish       afplay              appleh16camerad     asr                 autoload            avmediainfo
+activate.nu         afscexpand          applesingle         assetutil           automationmodetool  avmetareadwrite
+activate.ps1        agentxtrap          apply               at                  automator           awk
+actool              agvtool             appsleepd           atos                automount           [11A[0m[27m[24m[38Ca[Ka 
+[J[Jenv/        main.py     typescript[A[0m[27m[24m[38Ca[K[1Cenv[1m/[0mmai[0mn.pytypescript[10Denv[1m/[0m      mai[0mn.pytypescript[10Denv[1m/[0m      mai[0mn.pytypescript[10Denv[1m/[0m      mai[0mn.pytypescript[10Denv[1m/[0m      mai[0mn.py       
+[J[Jaa                  aea                 alias               apropos             atq                 auval
+ab                  afclip              amt                 ar                  atrm                auvaltool
+ac                  afconvert           apachectl           arch                atsutil             avbanalyse
+accton              afhash              apfs_hfs_convert    arp                 audit               avbdeviced
+activate            afida               apfs_unlockfv       as                  auditd              avbdiagnose
+activate_this.py    afinfo              app-sso             asa                 auditreduce         avbutil
+activate.csh        afktool             appleh13camerad     aslmanager          authserver          avconvert
+activate.fish       afplay              appleh16camerad     asr                 autoload            avmediainfo
+activate.nu         afscexpand          applesingle         assetutil           automationmodetool  avmetareadwrite
+activate.ps1        agentxtrap          apply               at                  automator           awk
+actool              agvtool             appsleepd           atos                automount           [11A[0m[27m[24m[38Ca[Ka[200~activate.ps1 ~[?2004l
+[Jzsh: bad pattern: a[200~activate.ps1
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[Javirajmurkute@Mac fullstack python  % [K[?2004h[7mactivate.ps1 [27m[13D[27ma[27mc[27mt[27mi[27mv[27ma[27mt[27me[27m.[27mp[27ms[27m1[27m [?2004l
+zsh: permission denied: activate.ps1
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[Javirajmurkute@Mac fullstack python  % [K[?2004h[7mactivate.ps1 [27m[13D[27ma[27mc[27mt[27mi[27mv[27ma[27mt[27me[27m.[27mp[27ms[27m1[27m [?2004l
+zsh: permission denied: activate.ps1
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[Javirajmurkute@Mac fullstack python  % [K[?2004h[7msource env/bin/activate[27m
+[K[A[38C[27ms[27mo[27mu[27mr[27mc[27me[27m [27me[27mn[27mv[27m/[27mb[27mi[27mn[27m/[27ma[27mc[27mt[27mi[27mv[27ma[27mt[27me[1B[K[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h""/Users/avirajmurkute/Desktop/fullstack python /env/bin/python" "/Users/avirajmurkute/Desktop [K//fullstack python /app.py"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h˚ [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h""/Users/avirajmurkute/Desktop/fullstack python /env/bin/python" "/Users/avirajmurkute/Desktop [K//fullstack python /app.py"[?2004l
+Traceback (most recent call last):
+  File "/Users/avirajmurkute/Desktop/fullstack python /app.py", line 1, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h[7mpip install flask[27m
+[K[A[44C[27mp[27mi[27mp[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mf[27ml[27ma[27ms[27mk[1B[K[?2004l
+Collecting flask
+  Using cached flask-3.1.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting blinker>=1.9.0 (from flask)
+  Using cached blinker-1.9.0-py3-none-any.whl.metadata (1.6 kB)
+Collecting click>=8.1.3 (from flask)
+  Using cached click-8.2.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting itsdangerous>=2.2.0 (from flask)
+  Using cached itsdangerous-2.2.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting jinja2>=3.1.2 (from flask)
+  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting markupsafe>=2.1.1 (from flask)
+  Using cached MarkupSafe-3.0.2-cp312-cp312-macosx_11_0_arm64.whl.metadata (4.0 kB)
+Collecting werkzeug>=3.1.0 (from flask)
+  Using cached werkzeug-3.1.3-py3-none-any.whl.metadata (3.7 kB)
+Using cached flask-3.1.1-py3-none-any.whl (103 kB)
+Using cached blinker-1.9.0-py3-none-any.whl (8.5 kB)
+Using cached click-8.2.0-py3-none-any.whl (102 kB)
+Using cached itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+Using cached jinja2-3.1.6-py3-none-any.whl (134 kB)
+Using cached MarkupSafe-3.0.2-cp312-cp312-macosx_11_0_arm64.whl (12 kB)
+Using cached werkzeug-3.1.3-py3-none-any.whl (224 kB)
+Installing collected packages: markupsafe, itsdangerous, click, blinker, werkzeug, jinja2, flask
+[?25l[2K   [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m4/7[0m [werkzeug][2K   [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━[0m [32m6/7[0m [flask][2K   [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m7/7[0m [flask]
+[?25h[1A[2KSuccessfully installed blinker-1.9.0 click-8.2.0 flask-3.1.1 itsdangerous-2.2.0 jinja2-3.1.6 markupsafe-3.0.2 werkzeug-3.1.3
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h""/Users/avirajmurkute/Desktop/fullstack python /env/bin/python" "/Users/avirajmurkute/Desktop [K//fullstack python /app.py"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                         [0m[27m[24m[J(env) avirajmurkute@Mac fullstack python  % [K[?2004h
